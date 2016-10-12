@@ -1,0 +1,8 @@
+.classpath
+.DS_Store
+.project
+bin
+folder-contents.txt
+new-hello-world.txt|wc
+src
+trial-file.txt
